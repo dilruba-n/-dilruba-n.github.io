@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Software for People Management 
-nav_order: 3
+nav_order: 2
 ---
 # Human Resource Information System
 
 ## HRM and its functions
 
 Human Resource Management is a management function concerned with hiring, motivating, and maintaining workforce in an organization. Functions of HRM can be broadly classified into managerial functions like planning, organising, directing, staffing, controlling and operative functions like procurement, training & development, compensation, integration, maintenance, industrial relations, motivation etc.
+![](https://github.com/dilruba-n/dilruba-n.github.io/blob/master/hris.png)
 
 ## HRIS Definition
 
@@ -19,5 +20,35 @@ A good HR software is expected to cover the primary functions of HRM like job de
 
 Expectations from people management software are to perform series of processes like:
 
-Defining organisational structure, assigning roles & permissions, granting access rights, managing employee life cycle from onboarding to exit, publishing letters, running error-free payroll, managing loans & re-imbursements, meeting statutory norms, real-time attendance management for managing attendance, holiday calendar & shifts, meeting organizational goals & improving performance with continuous feedbacks or 1-on-1’s, boosting employee morale & improving employee engagement using engagement tools, helpdesk, conversational ticketing system for efficiently managing employee grievance, queries and service requests, communication & collaboration tool that brings your teams together anytime, anywhere,  manage employee claims & reimbursement with ease etc. In terms of features,a HR software must be flexible, low-cost, generic, operating system compatible product.
+* Defining organisational structure
+
+* Assigning roles & permissions
+
+* Granting access rights
+
+* Managing employee life cycle from onboarding to exit
+
+* Publishing letters
+
+* Running error-free payroll
+
+* Managing loans & re-imbursements
+
+* Meeting statutory norms
+
+* Real-time attendance management for managing attendance
+
+* Holiday calendar & shifts
+
+* Meeting organizational goals & improving performance with continuous feedbacks or 1-on-1’s
+
+* Boosting employee morale & improving employee engagement using engagement tools, helpdesk,etc.
+
+* Conversational ticketing system for efficiently managing employee grievance, queries and service requests
+
+* Communication & collaboration tool that brings your teams together anytime, anywhere
+
+* Manage employee claims & reimbursement with ease, etc.
+
+In terms of features,a HR software must be flexible, low-cost, generic, operating system compatible product.
 
