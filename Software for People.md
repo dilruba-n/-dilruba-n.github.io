@@ -22,7 +22,6 @@ Avoid confusions of forgetting if we have interviewed a person already. With eac
 
 With all of the steps documented and everything in one place, you can find and report on any information you need - like your hiring velocity and onboarding progress.
 
-
 ![](/api/attachments.redirect?id=b901da19-9d4f-465e-83e7-bf6c41d1b851)
 
 ## Use Jira Core for all your HR tasks
@@ -36,7 +35,6 @@ With all of the steps documented and everything in one place, you can find and r
 | Reports | Use reports and dashboards to track candidate interviews and get a quick view into your success rate and pipeline. |
 
 
-\
 ## Advantages of Jira Core
 
 * **Rroadmap requirements.** Jira has tools that enable users to sketch out the big picture, communicate plans, and connect the bigger roadmap goals to the team’s everyday tasks.
