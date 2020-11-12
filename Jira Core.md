@@ -1,3 +1,4 @@
+nav_order: 4
 # Jira Core
 
 We can consider Jira Core for all our people needs: <https://www.atlassian.com/software/jira/core>.
@@ -19,7 +20,7 @@ Avoid confusions of forgetting if we have interviewed a person already. With eac
 ## Measure HR team performance
 
 With all of the steps documented and everything in one place, you can find and report on any information you need - like your hiring velocity and onboarding progress.
-
+![](https://github.com/dilruba-n/dilruba-n.github.io/blob/master/jiro2.png)
 
 ## Use Jira Core for all your HR tasks
 
