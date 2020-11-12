@@ -11,8 +11,6 @@ Jira Core is a popular solution with over 65000 customers worldwide, a software 
 Boards are available in Jira Core Cloud. Features include visualizing candidate pipeline, see updates at a glance, respond to comments, and quickly adjust to changing schedules. Keeps the team updated with latest information.
 
 
-![](/api/attachments.redirect?id=ed2c098d-f5d3-431f-8a1e-3f1881dc601e)
-
 ## Monitor HR details
 
 Avoid confusions of forgetting if we have interviewed a person already. With each step of the process recorded, including candidate details, documents, and feedback in one place, it's easier to make informed decisions. Any team member can take a look, including the boss.
@@ -22,7 +20,6 @@ Avoid confusions of forgetting if we have interviewed a person already. With eac
 
 With all of the steps documented and everything in one place, you can find and report on any information you need - like your hiring velocity and onboarding progress.
 
-![](/api/attachments.redirect?id=b901da19-9d4f-465e-83e7-bf6c41d1b851)
 
 ## Use Jira Core for all your HR tasks
 
