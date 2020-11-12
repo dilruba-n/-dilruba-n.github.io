@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Jira Core
 nav_order: 3
 ---
 # Jira Core
