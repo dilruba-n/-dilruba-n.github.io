@@ -1,4 +1,8 @@
+---
+layout: default
+title: Home
 nav_order: 3
+---
 # Jira Core
 
 We can consider Jira Core for all our people needs: <https://www.atlassian.com/software/jira/core>.
