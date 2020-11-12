@@ -9,7 +9,7 @@ Jira Core is a popular solution with over 65000 customers worldwide, a software 
 ## Manage HR projects
 
 Boards are available in Jira Core Cloud. Features include visualizing candidate pipeline, see updates at a glance, respond to comments, and quickly adjust to changing schedules. Keeps the team updated with latest information.
-
+![](https://github.com/dilruba-n/dilruba-n.github.io/blob/master/jiro1.png)
 
 ## Monitor HR details
 
