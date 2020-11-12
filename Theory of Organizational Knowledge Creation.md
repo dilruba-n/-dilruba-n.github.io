@@ -1,3 +1,8 @@
+---
+layout: default
+title: Organizational Knowledge Creation
+nav_order: 4
+---
 # Theory of Organizational Knowledge Creation
 
 ## **Introduction**
@@ -37,20 +42,20 @@ For tacit knowledge to be communicated and shared within an organization, it has
 
 ## **Dimensions of Tacit Knowledge**
 
-* The technical dimension: contains the kind of informal and hard-to-pin-down skills or crafts captured in the term “know-how.” A master craftsman is often unable to articulate what he knows.
-* The cognitive dimension: consists of schemata (cognitive schemes), mental models, beliefs, and perceptions so ingrained that we take them for granted. It reflects our image of reality (what is and ought to be)
+* **The technical dimension**: contains the kind of informal and hard-to-pin-down skills or crafts captured in the term “know-how.” A master craftsman is often unable to articulate what he knows.
+* **The cognitive dimension**: consists of schemata (cognitive schemes), mental models, beliefs, and perceptions so ingrained that we take them for granted. It reflects our image of reality (what is and ought to be)
 
 ## **Implications of Tacit knowledge**
 
-Whole different view of the organization– Organization as a living organism rather than a machine for processing information.
+* Whole different view of the organization– Organization as a living organism rather than a machine for processing information.
 
-Whole different view of innovation– highly individual process of personal and organizational self-renewal rather than a putting together of diverse information. Ideals not ideas. The essence of innovation is to re-create the world in accordance with a specific ideal or vision.
+* Whole different view of innovation– highly individual process of personal and organizational self-renewal rather than a putting together of diverse information. Ideals not ideas. The essence of innovation is to re-create the world in accordance with a specific ideal or vision.
 
-Whole different view of knowledge– less formal i.e. metaphors, pictures, experiences, mental and physical transitions instead of acquiring, teaching, training. 
+* Whole different view of knowledge– less formal i.e. metaphors, pictures, experiences, mental and physical transitions instead of acquiring, teaching, training. 
 
 ## **Knowledge Creation**
 
-![](/api/attachments.redirect?id=f5516e1d-5a3f-48e6-bf5e-00d14effe481)
+![](https://github.com/dilruba-n/dilruba-n.github.io/blob/master/knowledge1.png)
 
 ## **Knowledge Conversion**
 
@@ -62,6 +67,6 @@ There are five phases to knowledge creation – sharing tacit knowledge, creatin
 
 Four modes of knowledge conversion are socialization, externalization, combination and internalization.
 
-![](/api/attachments.redirect?id=e231c1f1-8621-4791-83a7-8a974658cb83)
+![](https://github.com/dilruba-n/dilruba-n.github.io/blob/master/knowledge2.png)
 
 
