@@ -1,4 +1,4 @@
-# Software for People
+# Jira Core
 
 We can consider Jira Core for all our people needs: <https://www.atlassian.com/software/jira/core>.
 
